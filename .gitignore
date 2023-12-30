@@ -1,0 +1,7 @@
+/gan_image
+/music
+*.zip
+*.joblib
+*.npz
+/nfl/.vs
+/.vs
